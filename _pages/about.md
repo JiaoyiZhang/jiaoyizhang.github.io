@@ -30,3 +30,14 @@ B.S. in Computer Science and Technology at [College of Computer Science](https:/
 ## Experiences
 - **Alibaba Group**  
 Research intern in Database and Storage Lab, Alibaba Cloud Intelligence. Mentor: Dr. Sheng Wang. March 2024 - present.
+
+## Teaching
+- **Teaching Assistant** Data Mining - Fall 2020.
+
+## Awards
+- Excellent Comprehensive Scholarship of IIIS, 2023  
+- Excellent Comprehensive Scholarship of Tsinghua University (12%), 2022
+- Outstanding Graduates of Nankai University (4%), 2020
+- National Scholarship (1%), 2019
+- National Scholarship (1%), 2018
+- Gong-Neng Scholarship of Nankai University (5%), 2017
