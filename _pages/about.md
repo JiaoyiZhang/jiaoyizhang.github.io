@@ -16,7 +16,7 @@ indexing data structures and cloud databases.
 *Proceedings of the ACM on Management of Data* (**SIGMOD'24**), 2(3): Article 151, 26 pages.
 
 
-- **CARMI: A Cache-Aware Index with a Cost-based Construction Algorithm** [[paper]](https://www.vldb.org/pvldb/vol15/p2679-gao.pdf)  
+- **CARMI: A Cache-Aware Learned Index with a Cost-based Construction Algorithm** [[paper]](https://www.vldb.org/pvldb/vol15/p2679-gao.pdf)  
 **Jiaoyi Zhang**, and Yihan Gao  
 *Proceedings of the VLDB Endowment* (**VLDB'22**), 15(11), pp. 2679–2691.
 
