@@ -29,10 +29,11 @@ B.S. in Computer Science and Technology at [College of Computer Science](https:/
 
 ## Experiences
 - **Alibaba Group**  
-Research intern in Database and Storage Lab, Alibaba Cloud Intelligence. Mentor: Dr. Sheng Wang. March 2024 - present.
+Research intern in Database and Storage Lab, Alibaba Cloud Intelligence.  
+Mentor: Dr. Sheng Wang. March 2024 - present.
 
 ## Teaching
-- **Teaching Assistant** Data Mining - Fall 2020.
+- **Teaching Assistant** - Data Mining, Fall 2020.
 
 ## Awards
 - Excellent Comprehensive Scholarship of IIIS, 2023  
