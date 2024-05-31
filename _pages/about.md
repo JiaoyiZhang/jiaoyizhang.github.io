@@ -11,7 +11,7 @@ I am a Ph.D. candidate in [Institute for Interdisciplinary Information Sciences 
 indexing data structures and cloud databases.
 
 ## Publications
-- **Making In-Memory Learned Indexes Efficient on Disk** [[paper]](https://people.iiis.tsinghua.edu.cn/~huanchen/publications/learned-index-disk-sigmod24.pdf)  
+- **Making In-Memory Learned Indexes Efficient on Disk** [[paper]](https://dl.acm.org/doi/10.1145/3654954)  
 **Jiaoyi Zhang**, Kai Su and Huanchen Zhang  
 *Proceedings of the ACM on Management of Data* (**SIGMOD'24**), 2(3): Article 151, 26 pages.
 
