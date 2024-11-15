@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiaoyi Zhang"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Jiaoyi Zhang"
 description              : &description "Ph.D. Candidate at Tsinghua University"
 url                      : https://jiaoyizhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
