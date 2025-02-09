@@ -10,6 +10,10 @@ redirect_from:
 I am a Ph.D. candidate in [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). Before coming to Tsinghua, I obtained my bachelor’s degree from Nankai University in 2020. My research interests mainly lie in indexing data structures, AI for DB, data storage and cloud databases.
 
 ## Publications
+- **Femur: A Flexible Framework for Fast and Secure Querying from Public Key-Value Store**  
+**Jiaoyi Zhang**, Liqiang Peng, Mo Sha, Weiran Liu, Xiang Li, Sheng Wang, Feifei Li, Mingyu Gao and Huanchen Zhang  
+*Proceedings of the ACM on Management of Data* (**SIGMOD'25**), pages TBD.
+
 - **Making In-Memory Learned Indexes Efficient on Disk** [[paper]](https://dl.acm.org/doi/10.1145/3654954) [[code]](https://github.com/JiaoyiZhang/Efficient-Disk-Learned-Index)  
 **Jiaoyi Zhang**, Kai Su and Huanchen Zhang  
 *Proceedings of the ACM on Management of Data* (**SIGMOD'24**), 2(3): Article 151, 26 pages.
