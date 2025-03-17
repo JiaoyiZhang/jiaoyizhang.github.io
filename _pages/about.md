@@ -11,11 +11,11 @@ I am a Ph.D. candidate in [Institute for Interdisciplinary Information Sciences 
 
 ## Publications
 - **Femur: A Flexible Framework for Fast and Secure Querying from Public Key-Value Store**  
-**Jiaoyi Zhang**, Liqiang Peng, Mo Sha, Weiran Liu, Xiang Li, Sheng Wang, Feifei Li, Mingyu Gao and Huanchen Zhang  
+**Jiaoyi Zhang**, Liqiang Peng, Mo Sha, Weiran Liu, Xiang Li, Sheng Wang, Feifei Li, Mingyu Gao, and Huanchen Zhang  
 *Proceedings of the ACM on Management of Data* (**SIGMOD'25**), pages TBD.
 
 - **Making In-Memory Learned Indexes Efficient on Disk** [[paper]](https://dl.acm.org/doi/10.1145/3654954) [[code]](https://github.com/JiaoyiZhang/Efficient-Disk-Learned-Index)  
-**Jiaoyi Zhang**, Kai Su and Huanchen Zhang  
+**Jiaoyi Zhang**, Kai Su, and Huanchen Zhang  
 *Proceedings of the ACM on Management of Data* (**SIGMOD'24**), 2(3): Article 151, 26 pages.
 
 
