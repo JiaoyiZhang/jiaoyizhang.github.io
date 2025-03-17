@@ -20,12 +20,12 @@ I am a Ph.D. candidate in [Institute for Interdisciplinary Information Sciences 
 
 
 - **CARMI: A Cache-Aware Learned Index with a Cost-based Construction Algorithm** [[paper]](https://www.vldb.org/pvldb/vol15/p2679-gao.pdf) [[code]](https://github.com/JiaoyiZhang/CARMI)  
-**Jiaoyi Zhang**, and Yihan Gao  
+**Jiaoyi Zhang** and Yihan Gao  
 *Proceedings of the VLDB Endowment* (**VLDB'22**), 15(11), pp. 2679–2691.
 
 ## Education
 - **Tsinghua University**  
-Ph.D. Candidate in computer science at [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). Sept. 2020 - present.
+Ph.D. Candidate in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). Sept. 2020 - present.
 
 - **Nankai University**  
 B.S. in Computer Science and Technology at [College of Computer Science](https://encc.nankai.edu.cn/). Sept. 2016 - June 2020.  
