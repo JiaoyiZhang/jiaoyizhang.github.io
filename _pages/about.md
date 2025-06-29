@@ -7,12 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). Before coming to Tsinghua, I obtained my bachelor’s degree from Nankai University in 2020. My research interests mainly lie in indexing data structures, AI for DB, data storage and cloud databases.
+I am an incoming Assistant Professor at the [School of Data Science](https://dase.ecnu.edu.cn/), [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), starting in Fall 2025. I recently received my Ph.D. in Computer Science and Technology from the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I was very fortunate to be advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). Before that, I obtained my bachelor’s degree from Nankai University in 2020.
+
+My research interests focus on high-performance database systems, including indexing data structures, AI for DB, DB for AI, data storage, and cloud-native databases.
+
+<div style="background-color:#f5f5f5; padding:10px; border-radius:6px;">
+<strong>Recruiting:</strong> I am looking for highly self-motivated Master students and research interns (RAs). If you are interested in databases and systems research, feel free to reach out.
+</div>
+
 
 ## Publications
-- **Femur: A Flexible Framework for Fast and Secure Querying from Public Key-Value Store**  
+- **Femur: A Flexible Framework for Fast and Secure Querying from Public Key-Value Store** [[paper]](https://doi.org/10.1145/3725299) [[code]](https://github.com/alibaba-edu/mpc4j)  
 **Jiaoyi Zhang**, Liqiang Peng, Mo Sha, Weiran Liu, Xiang Li, Sheng Wang, Feifei Li, Mingyu Gao, and Huanchen Zhang  
-*Proceedings of the ACM on Management of Data* (**SIGMOD'25**), pages TBD.
+*Proceedings of the ACM on Management of Data* (**SIGMOD'25**), 3(3): Article 162, 29 pages.
 
 - **Making In-Memory Learned Indexes Efficient on Disk** [[paper]](https://dl.acm.org/doi/10.1145/3654954) [[code]](https://github.com/JiaoyiZhang/Efficient-Disk-Learned-Index)  
 **Jiaoyi Zhang**, Kai Su, and Huanchen Zhang  
@@ -25,7 +32,7 @@ I am a Ph.D. candidate in [Institute for Interdisciplinary Information Sciences 
 
 ## Education
 - **Tsinghua University**  
-Ph.D. Candidate in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). Sept. 2020 - present.
+Ph.D. Candidate in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). Sept. 2020 - June 2025.
 
 - **Nankai University**  
 B.S. in Computer Science and Technology at [College of Computer Science](https://encc.nankai.edu.cn/). Sept. 2016 - June 2020.  
@@ -33,8 +40,8 @@ B.S. in Computer Science and Technology at [College of Computer Science](https:/
 ## Experiences
 - **Alibaba Group**  
 Research intern in Database and Storage Lab, Alibaba Cloud Intelligence.  
-Mentor: Dr. Sheng Wang. March 2024 - present.  
-Study on improving the usability of secure query processing systems (submitted to SIGMOD’25).
+Mentor: Dr. Sheng Wang. March 2024 - Feb. 2025.  
+Research on improving the usability of secure query processing systems (SIGMOD’25).
 
 ## Teaching
 - **Teaching Assistant** - Data Mining, Fall 2020.
