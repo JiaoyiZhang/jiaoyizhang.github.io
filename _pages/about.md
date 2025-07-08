@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Assistant Professor at the [School of Data Science](https://dase.ecnu.edu.cn/), [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), starting in Fall 2025. I recently received my Ph.D. in Computer Science and Technology from the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I was very fortunate to be advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). Before that, I obtained my bachelor’s degree from Nankai University in 2020.
+I am an incoming Assistant Professor at the [School of Data Science and Engineering](https://dase.ecnu.edu.cn/), [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), starting in Fall 2025. I recently received my Ph.D. in Computer Science and Technology from the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I was very fortunate to be advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). Before that, I obtained my bachelor’s degree from Nankai University in 2020.
 
 My research interests focus on high-performance database systems, including indexing data structures, AI for DB, DB for AI, data storage, and cloud-native databases.
 
