@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the [School of Data Science and Engineering](https://dase.ecnu.edu.cn/), [East China Normal University (ECNU)](https://www.ecnu.edu.cn/). I received my Ph.D. in Computer Science and Technology from the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I was very fortunate to be advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). Prior to that, I obtained my bachelor’s degree from [Nankai University](https://en.nankai.edu.cn/) in 2020.
+I am an Assistant Professor at the [School of Data Science and Engineering](https://dase.ecnu.edu.cn/), East China Normal University (ECNU). I received my Ph.D. in Computer Science and Technology from the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University, where I was very fortunate to be advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). Prior to that, I obtained my bachelor’s degree from Nankai University in 2020.
 
 My research interests focus on high-performance database systems, AI-powered data systems, and AI infrastructure. I aim to design practical, efficient, and scalable systems that support both data-intensive applications and intelligent computing.
 
