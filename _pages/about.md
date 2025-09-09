@@ -14,7 +14,7 @@ My research interests focus on high-performance database systems, AI-powered dat
 
 <div style="background-color:#f5f5f5; padding:12px 16px; border-radius:8px; margin:12px 0;">
 <strong>Recruiting:</strong> I am looking for highly self-motivated Master students and research interns (RAs).  
-If you are interested in databases and systems research, feel free to <a href="jyzhang@dase.ecnu.edu.cn">reach out</a>.
+If you are interested in databases and systems research, feel free to <a href="mailto:jyzhang@dase.ecnu.edu.cn">reach out</a>.
 </div>
 
 ---
