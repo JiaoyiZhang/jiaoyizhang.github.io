@@ -71,6 +71,7 @@ March 2024 – Feb. 2025
 
 ## 🏆 Awards
 
+- ACM SIGMOD China Doctoral Dissertation Award, 2025
 - Excellent Comprehensive Scholarship of Tsinghua University (Top 12%), 2024  
 - Excellent Comprehensive Scholarship of IIIS, 2023  
 - Excellent Comprehensive Scholarship of Tsinghua University (Top 12%), 2022  
