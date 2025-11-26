@@ -23,21 +23,21 @@ If you are interested in databases and systems research, feel free to <a href="m
 
 - **Improving Range Scan Performance in LSM-trees with Group Caching**  
 Hengrui Wang, **Jiaoyi Zhang**, Jiansheng Qiu, Fangzhou Yuan, Huanchen Zhang  
-*Proceedings of the ACM on Management of Data (SIGMOD'26)*, TBD  
+*Proceedings of the ACM on Management of Data (**SIGMOD'26**)*, TBD  
 
 - **Femur: A Flexible Framework for Fast and Secure Querying from Public Key-Value Store**  
 **Jiaoyi Zhang**, Liqiang Peng, Mo Sha, Weiran Liu, Xiang Li, Sheng Wang, Feifei Li, Mingyu Gao, and Huanchen Zhang  
-*Proceedings of the ACM on Management of Data (SIGMOD'25)*, 3(3): Article 162, 29 pages  
+*Proceedings of the ACM on Management of Data (**SIGMOD'25**)*, 3(3): Article 162, 29 pages  
 [Paper](https://doi.org/10.1145/3725299) | [Code](https://github.com/alibaba-edu/mpc4j)
 
 - **Making In-Memory Learned Indexes Efficient on Disk**  
 **Jiaoyi Zhang**, Kai Su, and Huanchen Zhang  
-*Proceedings of the ACM on Management of Data (SIGMOD'24)*, 2(3): Article 151, 26 pages  
+*Proceedings of the ACM on Management of Data (**SIGMOD'24**)*, 2(3): Article 151, 26 pages  
 [Paper](https://dl.acm.org/doi/10.1145/3654954) | [Code](https://github.com/JiaoyiZhang/Efficient-Disk-Learned-Index)
 
 - **CARMI: A Cache-Aware Learned Index with a Cost-based Construction Algorithm**  
 **Jiaoyi Zhang** and Yihan Gao  
-*Proceedings of the VLDB Endowment (VLDB'22)*, 15(11), pp. 2679–2691  
+*Proceedings of the VLDB Endowment (**VLDB'22**)*, 15(11), pp. 2679–2691  
 [Paper](https://www.vldb.org/pvldb/vol15/p2679-gao.pdf) | [Code](https://github.com/JiaoyiZhang/CARMI)
 
 ---
