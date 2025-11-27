@@ -22,7 +22,7 @@ If you are interested in databases and systems research, feel free to <a href="m
 ## 📄 Publications
 
 - **Improving Range Scan Performance in LSM-trees with Group Caching**  
-Hengrui Wang, **Jiaoyi Zhang**, Jiansheng Qiu, Fangzhou Yuan, Huanchen Zhang  
+Hengrui Wang, **Jiaoyi Zhang**, Jiansheng Qiu, Fangzhou Yuan, and Huanchen Zhang  
 *Proceedings of the ACM on Management of Data (**SIGMOD'26**)*, TBD  
 
 - **Femur: A Flexible Framework for Fast and Secure Querying from Public Key-Value Store**  
