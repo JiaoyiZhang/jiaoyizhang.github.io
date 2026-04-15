@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Jiaoyi Zhang"
 title_separator          : ""
 name                     : &name "Jiaoyi Zhang"
 description              : &description "Assistant Professor @ DaSE, East China Normal University"
@@ -28,7 +28,7 @@ author:
   location         : "Shanghai, China"
   employer         : "East China Normal University"
   uri              : # URL
-  email            : "jiaoyizhang0222@gmail.com" 
+  email            : "jyzhang@dase.ecnu.edu.cn" 
   github           : "JiaoyiZhang"
 
   # Academic websites
@@ -78,7 +78,7 @@ author:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -281,7 +281,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

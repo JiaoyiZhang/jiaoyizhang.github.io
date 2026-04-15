@@ -1,0 +1,22 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ base_path }}/assets/css/home.css">
+  </head>
+  <body class="home-shell">
+    {% include browser-upgrade.html %}
+    {{ content }}
+    {% include scripts.html %}
+    <script src="{{ base_path }}/assets/js/home.js"></script>
+  </body>
+</html>

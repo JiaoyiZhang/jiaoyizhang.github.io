@@ -20,14 +20,57 @@ See more info at https://academicpages.github.io/
 
 ## Running Locally
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+This repository has been tested locally with the system Ruby available on this machine (`ruby 2.6.10`) by pinning `ffi` to a Ruby-2.6-compatible version and installing gems into `vendor/bundle`.
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+### One-time setup
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+Run these commands in the project root:
+
+```bash
+bundle install --path vendor/bundle
+```
+
+This installs Jekyll and the site dependencies locally inside the repository.
+
+### Start the local preview server
+
+Use:
+
+```bash
+./dev.sh
+```
+
+Or run Jekyll directly:
+
+```bash
+bundle exec jekyll serve -l -H localhost
+```
+
+Then open:
+
+```text
+http://localhost:4000
+```
+
+### Useful local test commands
+
+Check whether the site can be generated:
+
+```bash
+bundle exec jekyll build
+```
+
+Clean generated artifacts if needed:
+
+```bash
+bundle exec jekyll clean
+```
+
+### Notes
+
+- If Bundler says it cannot reach `rubygems.org`, rerun the install when your network is available.
+- `github-pages` may print a warning about missing GitHub API authentication during local builds. That warning is usually safe to ignore for local preview.
+- If you later upgrade Ruby, you can delete `vendor/bundle` and run `bundle install --path vendor/bundle` again.
 
 # Maintenance 
 
